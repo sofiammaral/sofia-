@@ -1,0 +1,34 @@
+as tres lingaugens de programacao: 
+
+Python;oferece uma curva de aprendizado suave, uma comunidade forte e uma ampla variedade de bibliotecas e frameworks.
+
+ tem uma execução mais lenta em comparação com linguagens compiladas, como C e C++.utilizada amplamente em ciência de dados, inteligência artificial, machine learning, desenvolvimento web (com frameworks como Django e Flask), automação e scripting e computação científica, e na criação de aplicações desktop
+
+JavaScript;é suportada por todos os navegadores modernos e possui uma vasta gama de frameworks e bibliotecas, como React e Node.js.
+
+questões de segurança e inconsistências na linguagem podem ser pontos de preocupação.
+
+é a espinha dorsal do desenvolvimento web moderno, sendo usada para criar interatividade em sites e aplicações web. Utilizada em conjunto com HTML e CSS, também serve como base para frameworks populares como Angular, React e Node.js.
+
+Java: é uma linguagem multiplataforma, o que significa que os programas escritos em Java podem ser executados em diferentes tipos de hardware.
+
+pode ser mais complexa em comparação com outras linguagens, o que pode prolongar o tempo de desenvolvimento.
+
+é muito utilizada no desenvolvimento de aplicativos Android, em sistemas corporativos de grande escala, servidores web, aplicativos de desktop, dispositivos embarcados e IoT
+
+programacao Java: public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+
+programacao JavaScript: let nome = prompt("Qual é o seu nome?");
+console.log("Olá, " + nome + "!");
+
+phyton: 
+num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+
+soma = num1 + num2
+
+print("A soma é:", soma)
+
